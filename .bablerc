@@ -2,13 +2,13 @@
   "optional": [
     "es7.classProperties",
     "es7.decorators",
-    "es7.objectRestSpread",
-    "es7.classProperties"
+    "es7.objectRestSpread"
   ],
   "env": {
     "start": {
       "plugins": [
-        "react-transform"
+        "react-transform",
+        "transform-es2015-arrow-functions"
       ],
       "extra": {
         "react-transform": {
