@@ -7,8 +7,7 @@
   "env": {
     "start": {
       "plugins": [
-        "react-transform",
-        "transform-es2015-arrow-functions"
+        "react-transform"
       ],
       "extra": {
         "react-transform": {
